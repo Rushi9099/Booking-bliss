@@ -1,5 +1,6 @@
 # Booking-bliss
-##Ticket booking
-###Functionalities
+## Ticket booking
+
+### Functionalities
 
 <b> Rushi-Recommendations </b>
