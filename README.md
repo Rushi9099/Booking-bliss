@@ -1,2 +1,4 @@
 # Booking-bliss
-##Ticket booking
+#Ticket booking
+##Functionalities
+<b> Recommendations </b>
