@@ -3,4 +3,4 @@
 
 ### Functionalities
 
-<b> Rushi-Recommendations </b>
+<b> Rushi-Feedback and Recommendations </b>
